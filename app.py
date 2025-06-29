@@ -92,4 +92,4 @@ if user_token:
         st.markdown(f"**You:** {msg['user']}")
         st.markdown(f"**Assistant:** {msg['assistant']}")
 else:
-    st.info("Please enter your Hugging Face API key to chat with the
+    st.info("Please enter your Hugging Face API key to chat with the assistant.")
