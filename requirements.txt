@@ -1,3 +1,4 @@
 streamlit
 sympy
 PyPDF2
+transformers
